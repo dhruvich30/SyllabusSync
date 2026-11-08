@@ -1,0 +1,18 @@
+CMPSC 465: Data Structures and Algorithms - Fall 2026
+Instructor: Dr. Smith | Meets MWF 10:10-11:00
+
+Grading: Homework 30%, Quizzes 10%, Midterm 25%, Final Exam 35%
+
+Schedule
+Week 1 (Aug 24): Course intro, asymptotic analysis
+Week 2 (Aug 31): Homework 1 released, due Friday Sept 4 at 11:59 PM
+Week 4 (Sept 14): Quiz 1 in class on Wednesday Sept 16
+Week 5 (Sept 21): Homework 2 due Sept 25 by 11:59pm
+Week 7 (Oct 5): Midterm exam Thursday, October 8, 7:00-9:00 PM in Olmsted 104
+Week 9 (Oct 19): Homework 3 due October 23
+Week 10 (Oct 26): Quiz 2 on Oct 28
+Week 12 (Nov 9): Group project proposal due Nov 13
+Week 15 (Nov 30): Final project presentations Dec 2 and Dec 4
+Final Exam: Wednesday, December 16, 8:00-10:00 AM
+
+Weekly readings from the textbook are expected but not graded.
